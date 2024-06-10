@@ -48,8 +48,8 @@ def update_application(repo_owner, repo_name, current_version):
         pass
         
 
-repo_owner = 'Nyxoy201'
-repo_name = 'nebula'
+repo_owner = 'SID_XD'
+repo_name = 'KOL'
 current_version = 'v1.3.2'
 
 update_application(repo_owner, repo_name, current_version)
