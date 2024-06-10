@@ -18,16 +18,16 @@ SERVER_CONFIG = {
 }
 
 WEBHOOK_CONFIG = {
-    "default_name": "Nebula",  # Webhook Name here 
+    "default_name": "kol",  # Webhook Name here 
 }
 
 
 AUTO_RAID_CONFIG = {
     'num_channels': 15,  # Number of channels
     'channel_type': 'text',  # text/voice
-    'channel_name': '',  # Channel name
+    'channel_name': 'kol sid here',  # Channel name
     'num_messages': 5,  # Number of message to spam
-    'message_content': '' # Spam Message
+    'message_content': '@everyone https://discord.gg/M4nWG6d3YN' # Spam Message
 }
 
 NO_BAN_KICK_ID = {
@@ -38,5 +38,5 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "playing",  # "playing", "listening", or "watching"
-    "text": "Nebula"  # Your text presence
+    "text": "kol"  # Your text presence
 }
