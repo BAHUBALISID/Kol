@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Nebula Raider V1.3.2 💻 
+# 🤖 KOL Raider V1.3.2 💻 
 </div>
 
 ## <a id="Tables-Of-Contents"></a>🔱 » Table Of Contents
@@ -13,7 +13,7 @@
 - [Preview](#📷-»-Preview)
 
 ## <a id="Presentation"></a>🤖 » Presentation
-### What is Nebula ? 
+### What is KOL ? 
 Nebula is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible.
 
 ## <a id="Requirements"></a>💻 » Requirements
@@ -39,7 +39,7 @@ Nebula is the future of discord raider bots. In addition to having great efficie
 
 ## <a id="How To Use"></a>📜 » How To Use
 1. Install Python (3.10+) and add it to PATH.
-2. Download and extract latest Nebula version.
+2. Download and extract latest KOL version.
 3. Install requirements → open the cmd and go in Nebula folder then run `pip install -r requirements.txt`.
 4. Config the `config.py` if you want.
 5. Run `main.py` in the cmd → `python main.py`.
@@ -59,12 +59,12 @@ Nebula is the future of discord raider bots. In addition to having great efficie
    - Active the Developer Mode.
    - Now you can copy the server or user ID by right clicking on their profile and selecting "Copy Server/User ID".
 
-**If anything didn't work join the [discord server](https://discord.gg/8ksHjM9nnK).**
+**If anything didn't work join the [discord server](https://discord.gg/M4nWG6d3YN).**
 
 ## <a id="Preview"></a>📷 » Preview 
 ![image](https://github.com/Nyxoy201/nebula/assets/137317152/7d148e3b-c1b0-43cc-aaf4-d6dce09d5151)
 ![image](https://github.com/Nyxoy201/nebula/assets/137317152/ee10810a-6cad-4a77-bead-8f352903b0f0)
-![image](https://github.com/Nyxoy201/nebula/assets/137317152/2e71b366-c6be-4bba-b1ea-9af1a7c8a697)
+
 
 **Download it to discover all the features !** 
 
