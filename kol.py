@@ -712,5 +712,5 @@ async def on_ready():
 
         time.sleep(4)
 
-if __name__ == "__kol__":
+if __name__ == "__main__":
     bot.run(bot_token)
