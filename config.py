@@ -1,7 +1,7 @@
 EMBED_CONFIG = {
     "title": "",    # Maine Embed Title here 
     "description": "",   # Main Embed Description here 
-    "color": 0xFF5733,   # Change embed color if you want (red)
+    "color": 000000,   # Change embed color if you want (red)
     "fields": [
         {"name": "test", "value": "test", "inline": False},    # Embed Field → Juste Modify → Just edit the empty places
         {"name": "test", "value": "test", "inline": False},
